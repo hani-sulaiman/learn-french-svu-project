@@ -18,7 +18,7 @@
                             <img class="img-fluid rounded-circle" :src="classItem.classImage" :alt="classItem.className" />
                         </div>
                         <div class="bg-light rounded p-4 pt-5 mt-n5">
-                            <a class="d-block text-center h3 mt-3 mb-4" href="">{{ classItem.className }}</a>
+                            <RouterLink class="d-block text-center h3 mt-3 mb-4" :to="{ name: 'Class', params: { id: classItem.id } }">{{ classItem.className }}</RouterLink>
                             <div class="d-flex align-items-center justify-content-between mb-4">
                                 <div class="d-flex align-items-center">
                                     <img
