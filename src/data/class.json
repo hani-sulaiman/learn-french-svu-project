@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "Teacher": "Madame Marie",
+      "age": "4-6 ans",
+      "time": "10h00 - 11h00",
+      "className": "Apprendre les couleurs en français",
+      "classImage": "/assets/img/classes-1.webp",
+      "Capacity": "25 enfants",
+      "title": "Apprendre les couleurs en français pour les enfants",
+      "description": "Une vidéo éducative interactive pour apprendre les noms des couleurs en français de manière amusante et engageante.",
+      "path": "/assets/video/Learn Colors in French for Kids.mp4",
+      "category": "Éducation"
+    },
+    {
+      "id": 2,
+      "Teacher": "Monsieur Ahmed",
+      "age": "5-7 ans",
+      "time": "11h30 - 12h30",
+      "className": "Apprendre les chiffres de 1 à 20",
+      "classImage": "/assets/img/classes-3.webp",
+      "Capacity": "20 enfants",
+      "title": "Apprendre les chiffres en français pour les enfants de 1 à 20",
+      "description": "Un cours interactif pour apprendre à compter et prononcer les chiffres de 1 à 20 en français.",
+      "path": "/assets/video/Learn Numbers in French for kids 1 to 20.mp4",
+      "category": "Éducation"
+    },
+    {
+      "id": 3,
+      "Teacher": "Madame Leila",
+      "age": "4-6 ans",
+      "time": "13h00 - 14h00",
+      "className": "Découvrir les formes en français",
+      "classImage": "/assets/img/classes-2.webp",
+      "Capacity": "30 enfants",
+      "title": "Apprendre les formes en français pour les enfants",
+      "description": "Une vidéo éducative qui aide les enfants à reconnaître et nommer les formes de base en français.",
+      "path": "/assets/video/Learn Shapes in French for Kids.mp4",
+      "category": "Éducation"
+    }
+  ]
+  
